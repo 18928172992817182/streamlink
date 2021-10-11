@@ -233,6 +233,11 @@ Windows           - ``%APPDATA%\streamlink\plugins``
 Plugin specific usage
 ---------------------
 
+Default subtitle language with Viafree
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+You may provide a default language with :option:`--viafree-language`
+
 Authenticating with Crunchyroll
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 

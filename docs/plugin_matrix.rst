@@ -204,6 +204,10 @@ twitch                  twitch.tv            Yes   Yes
 ustreamtv               - ustream.tv         Yes   Yes
                         - video.ibm.com
 ustvnow                 ustvnow.com          Yes   --    All streams require an account, some streams require a subscription.
+viafree                 - viafree.dk         Yes   Yes   Streams may be geo-restricted.
+                        - viafree.no                     Only non-premium streams currently supported.
+                        - viafree.se
+                        - viafree.fi
 vidio                   vidio.com            Yes   Yes
 vimeo                   vimeo.com            Yes   Yes   Password-protected videos are not supported.
 vinhlongtv              thvli.vn             Yes   No    Streams are geo-restricted to Vietnam
